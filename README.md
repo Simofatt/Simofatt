@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+<a href="https://github.com/youssefabidi13">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Simofatt&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Simofatt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Simofatt&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Simofatt" />
+</p>
