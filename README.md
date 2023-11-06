@@ -6,12 +6,12 @@
 
 <a href="https://github.com/Simofatt">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Simofatt&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Simofatt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Simofatt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=percentile"/>
 </a>
 
 </div>
 <div align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Simofatt&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true&count_private=true&rank_icon=percentile" alt="Simofatt" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Simofatt&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true&count_private=true alt="Simofatt" />
 
 
 </div>
