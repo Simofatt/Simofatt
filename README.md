@@ -7,17 +7,10 @@
 <a href="https://github.com/Simofatt">
   <img height="180em" src="https://github-readme-stats-zakaria-aitali.vercel.app/api/top-langs/?username=Simofatt&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Simofatt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
 </a>
 
 </div>
 <div align=center>
 <img align="center" src="https://github-readme-streak-stats-zakaria-aitali.vercel.app/?user=Simofatt&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&count_private=true" alt="Simofatt" />
-
-
-
-
-
-
 </div>
 
